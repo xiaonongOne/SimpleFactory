@@ -3,7 +3,7 @@ package com.bean;
 import com.product.Product;
 
 /**
- * 电视机
+ *  电视机
  * @author XiaoNong
  *
  */
